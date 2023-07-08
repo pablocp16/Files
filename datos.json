@@ -1,0 +1,9 @@
+[{ "partido": "PP", "votantes": 10, "ranking": 10 },
+{ "partido": "PSOE", "votantes": 7, "ranking": 7 },
+{ "partido": "IU", "votantes": 6.5, "ranking": 6 },
+{ "partido": "UPyD", "votantes": 8.1, "ranking": 8 },
+{ "partido": "Ciudadanos", "votantes": 0.7, "ranking": 1 },
+{ "partido": "Podemos", "votantes": 3.54, "ranking": 3 },
+{ "partido": "Convergència (CDC)", "votantes": 4.2, "ranking": 4 },
+{ "partido": "ERC", "votantes": 1.8, "ranking": 2 },
+{ "partido": "ICV", "votantes": 4.72, "ranking": 5 }]
